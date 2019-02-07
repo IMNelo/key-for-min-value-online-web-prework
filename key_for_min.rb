@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
 hash.each do |key, value|
-  print_values 
+  values 
 end
 
 describe "smallest hash value" do
